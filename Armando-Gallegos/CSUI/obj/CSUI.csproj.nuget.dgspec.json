@@ -1,0 +1,275 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\csui\\CSUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSBL\\CSBL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSBL\\CSBL.csproj",
+        "projectName": "CSBL",
+        "projectPath": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSBL\\CSBL.csproj",
+        "packagesPath": "C:\\Users\\fgall\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSBL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fgall\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSDL\\CSDL.csproj": {
+                "projectPath": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSDL\\CSDL.csproj"
+              },
+              "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSModels\\CSModels.csproj": {
+                "projectPath": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSModels\\CSModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSDL\\CSDL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSDL\\CSDL.csproj",
+        "projectName": "CSDL",
+        "projectPath": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSDL\\CSDL.csproj",
+        "packagesPath": "C:\\Users\\fgall\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSDL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fgall\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSModels\\CSModels.csproj": {
+                "projectPath": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSModels\\CSModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSModels\\CSModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSModels\\CSModels.csproj",
+        "projectName": "CSModels",
+        "projectPath": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSModels\\CSModels.csproj",
+        "packagesPath": "C:\\Users\\fgall\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fgall\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\csui\\CSUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\csui\\CSUI.csproj",
+        "projectName": "CSUI",
+        "projectPath": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\csui\\CSUI.csproj",
+        "packagesPath": "C:\\Users\\fgall\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\csui\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fgall\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSBL\\CSBL.csproj": {
+                "projectPath": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSBL\\CSBL.csproj"
+              },
+              "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSDL\\CSDL.csproj": {
+                "projectPath": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSDL\\CSDL.csproj"
+              },
+              "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSModels\\CSModels.csproj": {
+                "projectPath": "C:\\Users\\fgall\\Documents\\211004-Reston-NET\\Armando-Gallegos-P0\\CSModels\\CSModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

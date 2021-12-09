@@ -1,0 +1,12 @@
+C:\Users\fgall\documents\211004-Reston-NET\Armando-Gallegos-P0\StoreModels\bin\Debug\net5.0\StoreModels.deps.json
+C:\Users\fgall\documents\211004-Reston-NET\Armando-Gallegos-P0\StoreModels\bin\Debug\net5.0\StoreModels.dll
+C:\Users\fgall\documents\211004-Reston-NET\Armando-Gallegos-P0\StoreModels\bin\Debug\net5.0\ref\StoreModels.dll
+C:\Users\fgall\documents\211004-Reston-NET\Armando-Gallegos-P0\StoreModels\bin\Debug\net5.0\StoreModels.pdb
+C:\Users\fgall\documents\211004-Reston-NET\Armando-Gallegos-P0\StoreModels\obj\Debug\net5.0\StoreModels.csproj.AssemblyReference.cache
+C:\Users\fgall\documents\211004-Reston-NET\Armando-Gallegos-P0\StoreModels\obj\Debug\net5.0\StoreModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgall\documents\211004-Reston-NET\Armando-Gallegos-P0\StoreModels\obj\Debug\net5.0\StoreModels.AssemblyInfoInputs.cache
+C:\Users\fgall\documents\211004-Reston-NET\Armando-Gallegos-P0\StoreModels\obj\Debug\net5.0\StoreModels.AssemblyInfo.cs
+C:\Users\fgall\documents\211004-Reston-NET\Armando-Gallegos-P0\StoreModels\obj\Debug\net5.0\StoreModels.csproj.CoreCompileInputs.cache
+C:\Users\fgall\documents\211004-Reston-NET\Armando-Gallegos-P0\StoreModels\obj\Debug\net5.0\StoreModels.dll
+C:\Users\fgall\documents\211004-Reston-NET\Armando-Gallegos-P0\StoreModels\obj\Debug\net5.0\ref\StoreModels.dll
+C:\Users\fgall\documents\211004-Reston-NET\Armando-Gallegos-P0\StoreModels\obj\Debug\net5.0\StoreModels.pdb

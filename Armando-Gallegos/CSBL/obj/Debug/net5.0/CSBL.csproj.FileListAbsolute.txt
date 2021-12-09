@@ -1,0 +1,17 @@
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\bin\Debug\net5.0\CSBL.deps.json
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\bin\Debug\net5.0\CSBL.dll
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\bin\Debug\net5.0\ref\CSBL.dll
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\bin\Debug\net5.0\CSBL.pdb
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\bin\Debug\net5.0\CSDL.dll
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\bin\Debug\net5.0\CSModels.dll
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\bin\Debug\net5.0\CSModels.pdb
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\bin\Debug\net5.0\CSDL.pdb
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\obj\Debug\net5.0\CSBL.csproj.AssemblyReference.cache
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\obj\Debug\net5.0\CSBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\obj\Debug\net5.0\CSBL.AssemblyInfoInputs.cache
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\obj\Debug\net5.0\CSBL.AssemblyInfo.cs
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\obj\Debug\net5.0\CSBL.csproj.CoreCompileInputs.cache
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\obj\Debug\net5.0\CSBL.csproj.CopyComplete
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\obj\Debug\net5.0\CSBL.dll
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\obj\Debug\net5.0\ref\CSBL.dll
+C:\Users\fgall\Documents\211004-Reston-NET\Armando-Gallegos-P0\CSBL\obj\Debug\net5.0\CSBL.pdb
